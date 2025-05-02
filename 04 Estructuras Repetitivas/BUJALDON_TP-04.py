@@ -110,7 +110,7 @@ print(f"\nLa media de los {CANTIDAD_NUMEROS} números ingresados es: {media}")
 
 
 #Ejercicio 10
-#nvertir el orden de los dígitos de un número ingresado por el usuario:
+#Invertir el orden de los dígitos de un número ingresado por el usuario:
 numero = input("Ingresa un número: ")
 numero_invertido = numero[::-1]  # Se invierte el string
 print(f"El número invertido es: {numero_invertido}")
